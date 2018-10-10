@@ -164,6 +164,21 @@
             </objects>
             <point key="canvasLocation" x="33.802816901408448" y="35.625"/>
         </scene>
+        <!--Web View Controller-->
+        <scene sceneID="0mj-EJ-dER">
+            <objects>
+                <viewController id="d95-x9-67o" customClass="WebViewController" customModule="BullsEye" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Vlp-iI-R8Z">
+                        <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="uKX-MC-f1M"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Tpr-Bc-7fc" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="34" y="1018"/>
+        </scene>
         <!--Author View Controller-->
         <scene sceneID="igY-jP-A0w">
             <objects>
